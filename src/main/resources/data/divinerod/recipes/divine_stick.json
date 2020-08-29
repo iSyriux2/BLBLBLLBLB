@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "y",
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    "y":
+    {
+      "item": "divinerod:power_ball"
+    }
+  },
+  "result":
+  {
+    "item": "divinerod:divine_stick",
+    "count": 4
+  }
+}

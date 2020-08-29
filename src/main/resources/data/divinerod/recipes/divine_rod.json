@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "y",
+    "x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:divine_stick"
+    },
+    "y":
+    {
+      "item": "divinerod:iron_stick"
+    }
+  },
+  "result":
+  {
+    "item": "divinerod:divine_rod",
+    "count": 1
+  }
+}

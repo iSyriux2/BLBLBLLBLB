@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " z ",
+    "zxz",
+    " z "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "divinerod:power_dust"
+    },
+    "z": {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "result":
+  {
+    "item": "divinerod:power_ball",
+    "count": 1
+  }
+}

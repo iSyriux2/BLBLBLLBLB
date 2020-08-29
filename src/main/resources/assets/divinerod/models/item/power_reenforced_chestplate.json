@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "divinerod:items/power_reenforced_chestplate"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient":
+  {
+    "item": "divinerod:power_dust"
+  },
+  "result":
+  {
+    "item": "divinerod:melted_power_dust",
+    "experience": 3,
+    "cookingtime": 100
+  }
+}

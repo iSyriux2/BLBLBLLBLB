@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "divinerod:melted_power_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "divinerod:power_dust",
+    "count": 1
+  }
+}
